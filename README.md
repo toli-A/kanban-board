@@ -12,6 +12,8 @@ No need to Install Anything!
 
 To use go to deployed link and enter one of three provides usernames and passwords
 
+Deployed Link ![Here](https://kanban-board-2qjc.onrender.com)
+
 User: JollyGuru
 Password: password
 
